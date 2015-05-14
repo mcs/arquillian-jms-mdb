@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="arquillian-jms-mdb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="arquillian-jms-mdb.war">
+      <element id="artifact" artifact-name="arquillian-jms-mdb:war exploded" />
+    </root>
+  </artifact>
+</component>

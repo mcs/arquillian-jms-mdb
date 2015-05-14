@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="arquillian-jms-mdb:ejb">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="arquillian-jms-mdb.jar">
+      <element id="artifact" artifact-name="arquillian-jms-mdb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

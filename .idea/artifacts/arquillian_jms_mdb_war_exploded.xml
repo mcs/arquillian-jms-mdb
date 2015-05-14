@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="arquillian-jms-mdb:war exploded">
+    <output-path>$PROJECT_DIR$/target/arquillian-jms-mdb</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="arquillian-jms-mdb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="arquillian-jms-mdb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
